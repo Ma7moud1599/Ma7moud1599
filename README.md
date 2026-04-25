@@ -77,7 +77,14 @@ Beyond web development, I've implemented core CS concepts from scratch:
 
 ---
 
+## Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma7moud1599&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://img.shields.io/badge/PRs-444-0075ca?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-299+-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues-0-e4e669?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud1599&layout=compact&hide_border=true&langs_count=6&count_private=true" height="165" />
 </p>
