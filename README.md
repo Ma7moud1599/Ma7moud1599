@@ -78,6 +78,6 @@ Beyond web development, I've implemented core CS concepts from scratch:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma7moud1599&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud1599&layout=compact&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma7moud1599&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma7moud1599&layout=compact&hide_border=true&langs_count=6&count_private=true" height="165" />
 </p>
